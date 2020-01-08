@@ -42,6 +42,10 @@
             "description": "Are we running on Heroku?",
             "value": "1"
         },
+        "DEBUG_COLLECTSTATIC": {
+            "description": "Sometimes, you may not want Heroku to run collectstatic on your behalf.",
+            "value": "1"
+        },
         "PROD_URL": {
             "description": "The URL where this will be hosted (https://APP_NAME.herokuapp.com/) - do not forget the ending /",
             "value": "https://APP_NAME.herokuapp.com/"
