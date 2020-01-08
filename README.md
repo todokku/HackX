@@ -30,7 +30,7 @@ Here's a few pictures of the application.
 
 Click the button below to Deploy to Heroku. You'll need to setup the config variables with the appropriate values.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rithik/HackX)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/todokku/HackX)
 
 ### Localhost setup
 
